@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tyleer&label=Profile%20views&color=a36fe2&style=plastic" alt="tyleer" /> </p>
 
-- 🔭 Holder of Dram [Dram](https://discord.com/oauth2/authorize?client_id=833855011984506980&scope=bot&permissions=805314622)
+- 🔭 Holder of [Dram](https://discord.com/oauth2/authorize?client_id=833855011984506980&scope=bot&permissions=805314622)
 
 - 📫 How to reach me if you need a website or have questions to my repos **SimonWaiblinger@live.at** 
 
