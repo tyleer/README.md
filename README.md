@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm umut</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tyleer&label=Profile%20views&color=a36fe2&style=plastic" alt="tyleer" /> </p>
-
 - 🔭 Holder of [Dram](https://discord.com/oauth2/authorize?client_id=833855011984506980&scope=bot&permissions=805314622)
 
 - 📫 You need a superior website? Write now! I make you you a good deal. **SimonWaiblinger@live.at** 
