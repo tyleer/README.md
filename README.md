@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm umut</h1>
 
-- 🔭 Holder of [Dram](https://discord.com/oauth2/authorize?client_id=833855011984506980&scope=bot&permissions=805314622)
+- 🔭 Holder of [Dram](https://bit.ly/35vl7lX)
 
 - 📫 You need a superior website? Write now! I make you you a good deal. **SimonWaiblinger@live.at** 
 
