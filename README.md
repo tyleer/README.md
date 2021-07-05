@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm umut</h1>
 
-- 🔭 Holder of [Dram](https://bit.ly/35vl7lX)
+- 🔭 Developer of [Dram](https://bit.ly/35vl7lX)
 
 - 📫 You need a superior website? Write now! I make you you a good deal. **SimonWaiblinger@live.at** 
 
