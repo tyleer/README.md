@@ -11,4 +11,5 @@
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=tyleer&show_icons=true&theme=dracula&locale=tr" alt="tyleer" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyleer&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tyleer" />
+https://lanyard-profile-readme.vercel.app/api/754646387672481792
 </p>
