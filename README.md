@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm umut</h1>
 
-- 🔭 Developer of [Dram](https://bit.ly/35vl7lX)
+- 🔭 Developer of [Dram](https://bit.ly/35vl7lX) and [Argent](https://discord.com/oauth2/authorize?client_id=871795748851822704&permissions=805314622&scope=bot%20applications.commands)
 
 <h3>Social Media</h3>
 <p align="left">
