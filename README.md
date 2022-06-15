@@ -8,7 +8,7 @@
 
 <p>
   <div align="center">
-    <a href="https://discord.com/users/730448609790787585" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/730448609790787585/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
+    <a href="https://discord.com/users/423918142385815552" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/730448609790787585/?theme=light&bg=809ecf&animated=true&hideDiscrim=true&borderRadius=30px"></a>
 </div>
 <img src="https://github-readme-stats.vercel.app/api?username=tyleer&show_icons=true&theme=dracula&locale=tr" alt="tyleer" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tyleer&show_icons=true&theme=dracula&locale=en&layout=compact" alt="tyleer" />
