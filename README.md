@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm umut</h1>
+<h1 align="center">👋 Hi, i'm umut</h1>
 
 - 🔭 Developer of [Dram](https://bit.ly/36bcVLc)!
-- 👑 Owner of [nude cenneti](https://discord.gg/agPRH9b22x)
+- 👑 Owner of [nude cenneti](https://discord.gg/agPRH9b22x)!
 
 <h3>Social Media</h3>
 <p align="left">
