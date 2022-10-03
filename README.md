@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, i'm umut</h1>
 
-- 👑 Owner of [Dram Botlist](https://discord.gg/sQ3ZuvfnZ6)!
-- 👑 Owner of [nude cenneti](https://discord.gg/agPRH9b22x)!
+- 👑 Owner of [Dram Botlist](https://discord.gg/sQ3ZuvfnZ6) & [nude cenneti](https://discord.gg/agPRH9b22x)!
 
 <h3>Social Media</h3>
 <p align="left">
