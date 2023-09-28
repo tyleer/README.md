@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, i'm umut</h1>
 
-- 👑 Owner of [Dram Botlist](https://discord.gg/sQ3ZuvfnZ6)!
+- 👑 Owner of [MobilOnayAl](https://www.mobilonayal.com.tr/)!
 
 <h3>Social Media</h3>
 <p align="left">
