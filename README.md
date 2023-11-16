@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, i'm umut</h1>
 
-- 👑 Owner of [MobilOnayAl](https://www.mobilonayal.com.tr/)!
+- 👑 Owner of [MobilOnayAl](https://www.mobilonayal.com.tr/) & [SMM Butik](https://smmbutik.com)!
 
 <h3>Social Media</h3>
 <p align="left">
