@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, i'm umut</h1>
 
-- 👑 free!
+- 👑 [Tarihen](https://tarihen.com) yazarı.
 
 <h3>Social Media</h3>
 <p align="left">
