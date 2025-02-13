@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, i'm umut</h1>
 
-- 👑 [Tarihen](https://tarihen.com) yazarı.
+- 👑 [Silah Tarihi](https://silahtarihi.com)
 
 <h3>Social Media</h3>
 <p align="left">
